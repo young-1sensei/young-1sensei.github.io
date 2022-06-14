@@ -149,7 +149,7 @@ body {
 }
 
 .h-handsome-eyes {
-	background-image: url(../images/bkgd-osteoporosis.jpg);
+	background-image: url(../images/consultation.jpg);
 }
 
 .h-asian-eyes {
@@ -206,7 +206,7 @@ body {
 }
 
 .b-block-two {
-	background-image:url(../images/bkgd-osteo.jpg);
+	background-image:url(../images/consultation.jpg);
 	background-position: center top;
 	background-size: cover;
 	height: 500px;
@@ -845,7 +845,7 @@ h2 {
 	font-weight: 300;
 	letter-spacing: 2px;
 	text-transform: uppercase;
-	color: rgb(59, 37, 182);
+	color: #2394d1;
 	margin-top: 0px;
 	margin-bottom: 10px;
 }
@@ -924,10 +924,10 @@ h2 {
 
 /* Default Link Styles */
 a {
-  color: blue;
+  color: #2394d1;
 }
 a:hover {
-  color: #63d5d5;
+  color: #06aae3;
   text-decoration: none;
 }
 
@@ -1095,8 +1095,8 @@ a:hover {
 /* VE Blues */
 .btn-primary {
   color: #fff;
-  background-color: blue;
-  border-color: blue;
+  background-color: #2394d1;
+  border-color: #2394d1;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -1226,12 +1226,12 @@ a:hover {
 	}
 	
 	.navbar-default {
-		background-color: rgba(149, 149, 149, .8);
+		background-color:#2394d1;
 		border-radius: 0px;
 	}
 	
 	.navbar-default .navbar-nav > li > a {
-		color: white; /* Color of main menu navigation */
+		color: black; /* Color of main menu navigation */
 		font-weight: 500;
 		font-size: 14px;
 		text-transform: uppercase;
@@ -1239,7 +1239,7 @@ a:hover {
 	}
 	
 	.navbar-default .navbar-nav > li > a:hover {
-		color: blue; /* Hover color of main menu navigation */
+		color: whitesmoke; /* Hover color of main menu navigation */
 		background-color: transparent; /* Background hover color of main menu navigation */
 	}
 	
@@ -1285,7 +1285,7 @@ a:hover {
 		margin: 2px 0 0;
 		list-style: none;
 		font-size: 14px;
-		background-color: #959595; /* Background color of dropdown menu */
+		background-color: #2394d1; /* Background color of dropdown menu */
 		border-radius: 0px;
 		-webkit-box-shadow: none;
 		box-shadow: none;
@@ -1310,7 +1310,7 @@ a:hover {
 	}
 	
 	.dropdown-menu > li > a:hover {
-		background-color: blue; /* Background color of dropdown hover menu */
+		background-color: #2394d1; /* Background color of dropdown hover menu */
 		color: white; /* Dropdown menu hover text color */
 	}
 	
@@ -1619,7 +1619,7 @@ a:hover {
 /* /////////// Footer ///////////// */
 
 footer {
-	background-color: rgb(149, 149, 149);
+	background-color: #2394d1;
 	color: white;
 	text-transform: uppercase;
     font-size: 13px;
@@ -1630,7 +1630,7 @@ footer {
 }
 
 footer #wrapper {
-	border-color: rgb(149, 149, 149);
+	border-color: #2394d1;
 }
 
 footer ul {
@@ -1787,7 +1787,7 @@ a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.acti
 }
 
 .fa-menu {
-	color: blue;
+	color: #2394d1;
 }
 
 .fa-menu:hover {
